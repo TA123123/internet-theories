@@ -1,7 +1,7 @@
 # Internet Theories
 
-> A bilingual (ZH/EN) documentation of 16 viral Chinese-internet "theories" — where each one came from, what it claims, how to practice it, and the caveats behind the hype.
-> 收录中文互联网上流行的 16 个「××理论」，中英文双语整理。[中文版 README](./README.md)（Chinese articles live in `zh/`）
+> A bilingual (ZH/EN) documentation of 17 viral Chinese-internet "theories" — where each one came from, what it claims, how to practice it, and the caveats behind the hype.
+> 收录中文互联网上流行的 17 个「××理论」，中英文双语整理。[中文版 README](./README.md)（Chinese articles live in `zh/`）
 
 In autumn 2026, a wave of "×× theory" memes swept Chinese Douyin: a hand lifting a two-liter bottle of plain water with the caption "the weak drink soda, the strong drink big water" ("弱者喝饮料，强者喝大水"). "Lean muscle theory" and "big sleep theory" quickly followed, evolving into a full minimalist-health lifestyle playbook for young Chinese. This repo collects these "one slogan + one lifestyle" theories into searchable documents — in both Chinese and English.
 
@@ -37,6 +37,12 @@ In autumn 2026, a wave of "×× theory" memes swept Chinese Douyin: a hand lifti
 | 11 | [The Morning-C Evening-A Theory](./en/11-the-morning-c-evening-a-theory.md) | Vitamin C by day, vitamin A by night — evidence-based skincare |
 | 12 | [The Multilingual Theory](./en/12-the-multilingual-theory.md) | Master multiple languages, widen your opportunity space |
 | 13 | [The Personal IP Theory](./en/13-the-personal-ip-theory.md) | Build a personal brand via short video and self-media, monetize your interests |
+
+### IV. A personal creed
+
+| # | Theory | One-liner |
+| --- | --- | --- |
+| 17 | [The "Sunxue" Philosophy (Justin Sun)](./en/17-sunxue.md) | "The essence of Sunxue is winning" — a philosophy of extreme pragmatic survival |
 
 ## Each document follows the same structure
 

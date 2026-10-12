@@ -1,8 +1,8 @@
 # 互联网理论 · Internet Theories
 
-> 收录中文互联网上流行的 16 个「××理论」——每一篇还原它的出处、核心主张、实践方法，以及热闹之外的理性提醒。**本仓库提供中文（`zh/`）与英文（`en/`）两个版本。**
+> 收录中文互联网上流行的 17 个「××理论」——每一篇还原它的出处、核心主张、实践方法，以及热闹之外的理性提醒。**本仓库提供中文（`zh/`）与英文（`en/`）两个版本。**
 >
-> A bilingual (ZH/EN) documentation of 16 viral Chinese-internet "theories" — where each one came from, what it claims, how to practice it, and the caveats behind the hype.
+> A bilingual (ZH/EN) documentation of 17 viral Chinese-internet "theories" — where each one came from, what it claims, how to practice it, and the caveats behind the hype.
 
 [English version (README-EN.md)](./README-EN.md)
 
@@ -40,6 +40,12 @@
 | 11 | [早C晚A理论](./zh/11-早C晚A理论.md) | 早上维 C，晚上维 A 类护肤，科学护肤保持年轻 |
 | 12 | [多语言理论](./zh/12-多语言理论.md) | 掌握英语等多种语言，扩大个人发展空间 |
 | 13 | [个人IP理论](./zh/13-个人IP理论.md) | 通过短视频、自媒体打造个人影响力，让兴趣变现 |
+
+### 四、人物思想
+
+| # | 理论 | 一句话 |
+| --- | --- | --- |
+| 17 | [孙学（孙宇晨理念）](./zh/17-孙学.md) | 孙学的本质，是赢——一套极端生存实用主义哲学 |
 
 ## 每个文档的结构
 

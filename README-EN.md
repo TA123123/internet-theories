@@ -2,14 +2,14 @@
 
 # Internet Theories · 互联网理论
 
-### An archive of 18 viral Chinese-internet "theories" — documented bilingually (ZH / EN)
+### An archive of 21 viral Chinese-internet "theories" — documented bilingually (ZH / EN)
 
 [![Stars](https://img.shields.io/github/stars/TA123123/internet-theories?style=for-the-badge&logo=github&label=Stars&color=blue)](https://github.com/TA123123/internet-theories/stargazers)
 [![Forks](https://img.shields.io/github/forks/TA123123/internet-theories?style=for-the-badge&logo=github&label=Forks&color=green)](https://github.com/TA123123/internet-theories/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/TA123123/internet-theories?style=for-the-badge&logo=github&label=Last%20Commit&color=orange)](https://github.com/TA123123/internet-theories/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/TA123123/internet-theories?style=for-the-badge&logo=github&label=Size&color=informational)](https://github.com/TA123123/internet-theories)
 <br/>
-[![Theories](https://img.shields.io/badge/theories-18-blueviolet?style=for-the-badge)](#-table-of-contents)
+[![Theories](https://img.shields.io/badge/theories-21-blueviolet?style=for-the-badge)](#-table-of-contents)
 [![Docs](https://img.shields.io/badge/docs-ZH%20%2F%20EN-brightgreen?style=for-the-badge)](#-two-language-versions)
 [![Status](https://img.shields.io/badge/docs-for%20reference-lightgrey?style=for-the-badge)](#-notes--disclaimer)
 
@@ -39,6 +39,9 @@
 | 🏃 | [The Athlete Physique Theory](./en/14-the-athlete-physique-theory.md) | Muscle plus strength, endurance and real athletic ability |
 | 🌿 | [The Low-Cost Wellness Theory](./en/15-the-low-cost-wellness-theory.md) | No expensive supplements — health from free daily habits |
 | 🧾 | [The Minimalist Consumption Theory](./en/16-the-minimalist-consumption-theory.md) | Spend less on junk, more on what actually improves life |
+| 💩 | [The Fourth Pillar Theory](./en/19-the-fourth-pillar-theory.md) | The fourth seat at the family table — smooth bowels are the cheapest physical |
+| 🎮 | [The Shuaxi Theory](./en/20-the-shuaxi-theory.md) | Sichuan dialect's "play first" survival playbook |
+| 🤝 | [Everything Can Be Pooled](./en/21-everything-can-be-pooled.md) | From pooled meals to pooled housing — a lifestyle |
 
 ### 💰 II. Wealth & assets
 
@@ -72,8 +75,8 @@ internet-theories/
 ├── README.md          # Chinese index
 ├── README-EN.md       # English index (this file)
 ├── banner.svg         # cover banner
-├── zh/                # 18 articles in Chinese
-└── en/                # 18 articles in English (1:1 with zh/)
+├── zh/                # 21 articles in Chinese
+└── en/                # 21 articles in English (1:1 with zh/)
 ```
 
 <details>

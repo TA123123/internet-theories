@@ -2,14 +2,14 @@
 
 # 互联网理论 · Internet Theories
 
-### 一套来自中文互联网的 18 个「××理论」档案 · 中英双语
+### 一套来自中文互联网的 21 个「××理论」档案 · 中英双语
 
 [![Stars](https://img.shields.io/github/stars/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E6%98%9F%E6%A0%87&color=blue)](https://github.com/TA123123/internet-theories/stargazers)
 [![Forks](https://img.shields.io/github/forks/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E5%A4%8D%E4%BA%A6&color=green)](https://github.com/TA123123/internet-theories/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=orange)](https://github.com/TA123123/internet-theories/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E4%BD%93%E7%A7%AF&color=informational)](https://github.com/TA123123/internet-theories)
 <br/>
-[![Theories](https://img.shields.io/badge/%E7%90%86%E8%AE%BA-18-blueviolet?style=for-the-badge)](#-目录)
+[![Theories](https://img.shields.io/badge/%E7%90%86%E8%AE%BA-21-blueviolet?style=for-the-badge)](#-目录)
 [![Docs](https://img.shields.io/badge/%E6%96%87%E6%A1%A3-ZH%20%2F%20EN-brightgreen?style=for-the-badge)](#-两个语言版本)
 [![Status](https://img.shields.io/badge/%E6%96%87%E6%A1%A3-%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83-lightgrey?style=for-the-badge)](#-说明与免责声明)
 
@@ -39,6 +39,9 @@
 | 🏃 | [运动员体魄理论](./zh/14-运动员体魄理论.md) | 拥有力量、耐力与运动能力，更健康、更有活力 |
 | 🌿 | [低成本养生理论](./zh/15-低成本养生理论.md) | 不追求昂贵保健品，用简单方式长期保持健康 |
 | 🧾 | [极简消费理论](./zh/16-极简消费理论.md) | 减少不必要的消费，把钱花在真正提升生活质量的地方 |
+| 💩 | [屎大屎理论（大💩理论）](./zh/19-屎大屎理论.md) | 大理论家族第四席——排便顺畅是最便宜的体检 |
+| 🎮 | [耍起理论](./zh/20-耍起理论.md) | 川渝方言"先耍起再说"的貃达生存术 |
+| 🤝 | [万物皆可拼](./zh/21-万物皆可拼.md) | 从拼好饭到拼房拼旅行，拼成一种生活方式 |
 
 ### 💰 二、财富与资产
 
@@ -72,8 +75,8 @@
 ├── README.md          # 中文索引（本文件）
 ├── README-EN.md       # 英文索引
 ├── banner.svg         # 封面横幅
-├── zh/                # 18 篇中文文档
-└── en/                # 18 篇英文文档（与中文一一对应）
+├── zh/                # 21 篇中文文档
+└── en/                # 21 篇英文文档（与中文一一对应）
 ```
 
 <details>

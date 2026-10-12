@@ -2,14 +2,14 @@
 
 # Internet Theories · 互联网理论
 
-### An archive of 17 viral Chinese-internet "theories" — documented bilingually (ZH / EN)
+### An archive of 18 viral Chinese-internet "theories" — documented bilingually (ZH / EN)
 
 [![Stars](https://img.shields.io/github/stars/TA123123/internet-theories?style=for-the-badge&logo=github&label=Stars&color=blue)](https://github.com/TA123123/internet-theories/stargazers)
 [![Forks](https://img.shields.io/github/forks/TA123123/internet-theories?style=for-the-badge&logo=github&label=Forks&color=green)](https://github.com/TA123123/internet-theories/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/TA123123/internet-theories?style=for-the-badge&logo=github&label=Last%20Commit&color=orange)](https://github.com/TA123123/internet-theories/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/TA123123/internet-theories?style=for-the-badge&logo=github&label=Size&color=informational)](https://github.com/TA123123/internet-theories)
 <br/>
-[![Theories](https://img.shields.io/badge/theories-17-blueviolet?style=for-the-badge)](#-table-of-contents)
+[![Theories](https://img.shields.io/badge/theories-18-blueviolet?style=for-the-badge)](#-table-of-contents)
 [![Docs](https://img.shields.io/badge/docs-ZH%20%2F%20EN-brightgreen?style=for-the-badge)](#-two-language-versions)
 [![Status](https://img.shields.io/badge/docs-for%20reference-lightgrey?style=for-the-badge)](#-notes--disclaimer)
 
@@ -63,6 +63,7 @@
 | | Theory | One-liner |
 |:---:|:---|:---|
 | 👑 | [The "Sunxue" Philosophy (Justin Sun)](./en/17-sunxue.md) | "The essence of Sunxue is winning" — a philosophy of extreme pragmatic survival |
+| 🏆 | [The Art of Winning — Fengge's Quotes](./en/18-feng-ge-the-art-of-winning.md) | "This is actually a good thing" — a street-level sociology of dialectical reversal |
 
 ## 🗂 Two language versions
 
@@ -71,8 +72,8 @@ internet-theories/
 ├── README.md          # Chinese index
 ├── README-EN.md       # English index (this file)
 ├── banner.svg         # cover banner
-├── zh/                # 17 articles in Chinese
-└── en/                # 17 articles in English (1:1 with zh/)
+├── zh/                # 18 articles in Chinese
+└── en/                # 18 articles in English (1:1 with zh/)
 ```
 
 <details>

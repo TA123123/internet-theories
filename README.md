@@ -2,14 +2,14 @@
 
 # 互联网理论 · Internet Theories
 
-### 一套来自中文互联网的 17 个「××理论」档案 · 中英双语
+### 一套来自中文互联网的 18 个「××理论」档案 · 中英双语
 
 [![Stars](https://img.shields.io/github/stars/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E6%98%9F%E6%A0%87&color=blue)](https://github.com/TA123123/internet-theories/stargazers)
 [![Forks](https://img.shields.io/github/forks/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E5%A4%8D%E4%BA%A6&color=green)](https://github.com/TA123123/internet-theories/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&color=orange)](https://github.com/TA123123/internet-theories/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/TA123123/internet-theories?style=for-the-badge&logo=github&label=%E4%BD%93%E7%A7%AF&color=informational)](https://github.com/TA123123/internet-theories)
 <br/>
-[![Theories](https://img.shields.io/badge/%E7%90%86%E8%AE%BA-17-blueviolet?style=for-the-badge)](#-目录)
+[![Theories](https://img.shields.io/badge/%E7%90%86%E8%AE%BA-18-blueviolet?style=for-the-badge)](#-目录)
 [![Docs](https://img.shields.io/badge/%E6%96%87%E6%A1%A3-ZH%20%2F%20EN-brightgreen?style=for-the-badge)](#-两个语言版本)
 [![Status](https://img.shields.io/badge/%E6%96%87%E6%A1%A3-%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83-lightgrey?style=for-the-badge)](#-说明与免责声明)
 
@@ -63,6 +63,7 @@
 | | 理论 | 一句话 |
 |:---:|:---|:---|
 | 👑 | [孙学（孙宇晨理念）](./zh/17-孙学.md) | 孙学的本质，是赢——一套极端生存实用主义哲学 |
+| 🏆 | [峰哥语录与赢学](./zh/18-峰哥语录与赢学.md) | "这是个好儿啊"——一套辩证反转的街头社会学 |
 
 ## 🗂 两个语言版本
 
@@ -71,8 +72,8 @@
 ├── README.md          # 中文索引（本文件）
 ├── README-EN.md       # 英文索引
 ├── banner.svg         # 封面横幅
-├── zh/                # 17 篇中文文档
-└── en/                # 17 篇英文文档（与中文一一对应）
+├── zh/                # 18 篇中文文档
+└── en/                # 18 篇英文文档（与中文一一对应）
 ```
 
 <details>

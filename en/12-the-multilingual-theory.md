@@ -1,4 +1,4 @@
-# The Multilingual Theory (多语言理论)
+# 🌐 The Multilingual Theory (多语言理论)
 
 > Master English and other languages — widen your personal opportunity space, embrace global chances.
 > Chinese: [多语言理论](../zh/12-多语言理论.md)

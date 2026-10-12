@@ -1,4 +1,4 @@
-# The Athlete Physique Theory (运动员体魄理论)
+# 🏃 The Athlete Physique Theory (运动员体魄理论)
 
 > Muscular, but also with strength, endurance and athletic ability — healthier, more energetic.
 > Chinese: [运动员体魄理论](../zh/14-运动员体魄理论.md)

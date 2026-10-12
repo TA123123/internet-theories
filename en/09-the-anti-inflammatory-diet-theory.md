@@ -1,4 +1,4 @@
-# The Anti-Inflammatory Diet Theory (抗炎饮食理论)
+# 🥗 The Anti-Inflammatory Diet Theory (抗炎饮食理论)
 
 > Cut sugar and ultra-processed food; eat more natural food; keep the body healthy.
 > Chinese: [抗炎饮食理论](../zh/09-抗炎饮食理论.md)

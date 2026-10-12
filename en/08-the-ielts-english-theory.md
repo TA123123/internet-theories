@@ -1,4 +1,4 @@
-# The IELTS English Theory (雅思英语理论)
+# 🎓 The IELTS English Theory (雅思英语理论)
 
 > Fluent English, IELTS 7+, as a personal competitiveness booster and a passport to a bigger world.
 > Chinese: [雅思英语理论](../zh/08-雅思英语理论.md)

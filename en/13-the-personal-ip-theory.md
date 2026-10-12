@@ -1,4 +1,4 @@
-# The Personal IP Theory (个人IP理论)
+# 📣 The Personal IP Theory (个人IP理论)
 
 > Build personal influence through short video and self-media — turn your interests into income.
 > Chinese: [个人IP理论](../zh/13-个人IP理论.md)

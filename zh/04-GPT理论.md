@@ -1,4 +1,4 @@
-# GPT理论
+# 🤖 GPT理论
 
 > English: [The GPT Theory](../en/04-the-gpt-theory.md)
 

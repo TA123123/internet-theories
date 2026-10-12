@@ -1,4 +1,4 @@
-# The Big Water Theory (大水理论)
+# 🌊 The Big Water Theory (大水理论)
 
 > Fewer milk teas and sodas, more big-bottle plain water — healthier and cheaper.
 > Chinese: [大水理论](../zh/01-大水理论.md)

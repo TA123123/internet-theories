@@ -1,4 +1,4 @@
-# The Bitcoin DCA Theory (比特币定投理论)
+# ₿ The Bitcoin DCA Theory (比特币定投理论)
 
 > Dollar-cost average into Bitcoin over the long run, embrace digital assets, pursue financial freedom.
 > Chinese: [比特币定投理论](../zh/06-比特币定投理论.md)

@@ -1,4 +1,4 @@
-# The Low-Cost Wellness Theory (低成本养生理论)
+# 🌿 The Low-Cost Wellness Theory (低成本养生理论)
 
 > No expensive supplements — value water, sleep, diet and exercise; stay healthy long-term with simple means.
 > Chinese: [低成本养生理论](../zh/15-低成本养生理论.md)

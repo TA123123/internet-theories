@@ -1,4 +1,4 @@
-# The Physical Gold Theory (实体黄金理论)
+# 🥇 The Physical Gold Theory (实体黄金理论)
 
 > Hold physical gold. Treat asset security seriously. Hedge against uncertainty.
 > Chinese: [实体黄金理论](../zh/07-实体黄金理论.md)

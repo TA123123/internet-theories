@@ -1,4 +1,4 @@
-# Vibe Coding理论
+# ⌨️ Vibe Coding理论
 
 > English: [The Vibe Coding Theory](../en/05-the-vibe-coding-theory.md)
 

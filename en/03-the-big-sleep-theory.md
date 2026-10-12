@@ -1,4 +1,4 @@
-# The Big Sleep Theory (大睡理论)
+# 🌙 The Big Sleep Theory (大睡理论)
 
 > A full 8 hours every night. Cut the late nights — sleep is productivity.
 > Chinese: [大睡理论](../zh/03-大睡理论.md)

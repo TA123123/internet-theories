@@ -1,4 +1,4 @@
-# The Minimalist Consumption Theory (极简消费理论)
+# 🧾 The Minimalist Consumption Theory (极简消费理论)
 
 > Cut unnecessary consumption; pursue practicality and value-for-money; spend on what truly improves quality of life.
 > Chinese: [极简消费理论](../zh/16-极简消费理论.md)

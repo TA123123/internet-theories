@@ -1,4 +1,4 @@
-# The Lean Muscle Theory (薄肌理论)
+# 💪 The Lean Muscle Theory (薄肌理论)
 
 > No exaggerated bulk — just clean, natural muscle lines. Healthy, good-looking, strong.
 > Chinese: [薄肌理论](../zh/02-薄肌理论.md)

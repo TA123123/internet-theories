@@ -1,4 +1,4 @@
-# The Iced Americano Theory (冰美式理论)
+# 🧋 The Iced Americano Theory (冰美式理论)
 
 > Cheap iced americano — simple, efficient, refreshing: the office worker's life-extender.
 > Chinese: [冰美式理论](../zh/10-冰美式理论.md)

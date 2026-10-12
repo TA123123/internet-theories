@@ -1,4 +1,4 @@
-# The GPT Theory (GPT理论)
+# 🤖 The GPT Theory (GPT理论)
 
 > Master ChatGPT and other AI tools to raise your learning, work and life efficiency — amplifying personal ability.
 > Chinese: [GPT理论](../zh/04-GPT理论.md)

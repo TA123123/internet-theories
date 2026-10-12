@@ -1,4 +1,4 @@
-# The Vibe Coding Theory (Vibe Coding理论)
+# ⌨️ The Vibe Coding Theory (Vibe Coding理论)
 
 > Use AI to assist programming — ordinary people can build software, and ideas become reality.
 > Chinese: [Vibe Coding理论](../zh/05-Vibe%20Coding理论.md)

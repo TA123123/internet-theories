@@ -1,4 +1,4 @@
-# The Morning-C Evening-A Theory (早C晚A理论)
+# ✨ The Morning-C Evening-A Theory (早C晚A理论)
 
 > Vitamin C in the morning, vitamin A actives at night — scientific skincare for a youthful state.
 > Chinese: [早C晚A理论](../zh/11-早C晚A理论.md)

@@ -1,4 +1,4 @@
-# The "Sunxue" Philosophy (孙学 · Justin Sun)
+# 👑 The "Sunxue" Philosophy (孙学 · Justin Sun)
 
 > "The essence of Sunxue is winning."
 > — Justin Sun's own definition
